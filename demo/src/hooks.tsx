@@ -13,7 +13,7 @@ export function useBag(
 ): null | { id: string; image: string } {
   const bagId = Number(id);
 
-  if (isNaN(bagId) || bagId < 1 || bagId > 8000) {
+  if (isNaN(bagId) || bagId < 1 || bagId > 100) {
     return null;
   }
 

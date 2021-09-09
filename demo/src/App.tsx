@@ -114,7 +114,7 @@ function App() {
                   return;
                 }
                 const numId = Number(value);
-                if (!isNaN(numId) && numId > 0 && numId <= 8000) {
+                if (!isNaN(numId) && numId > 0 && numId <= 100) {
                   setBagId(value);
                 }
               }}

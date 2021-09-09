@@ -16,7 +16,7 @@ async function main() {
   );
 
   const total = levels.reduce((total, count) => count + total, 0);
-  if (total !== 8000 * 8) {
+  if (total !== 100 * 8) {
     throw new Error("Wrong total");
   }
 

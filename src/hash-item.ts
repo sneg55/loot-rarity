@@ -52,5 +52,5 @@ function shorthash(text: string) {
 }
 
 export function hashItem(name: string): string {
-  return shorthash(name).slice(0, HASH_LENGTH).padStart(HASH_LENGTH, PAD_CHAR);
+  return shorthash(name).padStart(HASH_LENGTH, PAD_CHAR);
 }

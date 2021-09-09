@@ -1,5 +1,5 @@
 {
-  "name": "loot-rarity",
+  "name": "loot-rarity-test",
   "version": "4.2.0",
   "description": "Get the rarity level of a Loot (lootproject.com) item",
   "author": "Pierre Bertet",
@@ -39,6 +39,7 @@
     ]
   },
   "dependencies": {
-    "cross-fetch": "^3.1.4"
+    "cross-fetch": "^3.1.4",
+    "loot-rarity": "^4.2.0"
   }
 }
