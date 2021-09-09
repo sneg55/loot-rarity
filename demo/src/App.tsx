@@ -77,7 +77,7 @@ function App() {
     <Fragment>
       <GlobalStyles />
       <AppLayout
-        title="Loot Rarity"
+        title="Chart Rarity"
         secondary={
           <div
             css={css`

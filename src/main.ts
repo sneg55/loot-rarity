@@ -9,10 +9,12 @@ let cachedItemsrarity = null;
 export function itemRarity(itemName: string): RarityLevel {
   if (!cachedItemsrarity) {
     cachedItemsrarity = itemsRarity.map(
-      (items: string) => new Set(items.match(/.{1,5}/g))
+      (items: string) => {
+        const set = new Set(items.match(/.{1,10}/g))
+        return set
+      }
     );
   }
-
   const hash = hashItem(itemName);
 
   let index = 5;
@@ -30,7 +32,6 @@ export function rarityColor(
 ): string {
   const itemName = typeof itemOrRarity === "string" ? itemOrRarity : null;
   const level = itemName ? itemRarity(itemName) : (itemOrRarity as RarityLevel);
-
   const color = rarityLevels[level - 1][1];
   if (!color) {
     throw new Error(`Incorrect rarity level or item: ${itemOrRarity}`);

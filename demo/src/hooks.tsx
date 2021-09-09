@@ -2,6 +2,7 @@ import type { Guild } from "./guilds";
 
 import { rarityImageFromItems } from "../..";
 import loot from "../../data/loot.json";
+import { match } from "assert";
 
 export function useBag(
   id: string,
@@ -27,11 +28,7 @@ export function useBag(
         if (!displayColors) {
           return 'white'
         }
-        for (const { match, color } of guilds) {
-          if (match(itemName ?? "")) {
-            return color;
-          }
-        }
+        
       },
     }),
   };

@@ -1,1 +1,1202 @@
-[{"1":{"dexterity":"Dexterity 9","faith":"Faith 1","intelligence":"Intelligence 2","luck":"Luck 5","profession":"Priest","race":"Goblin","strength":"Strength 2","vitality":"Vitality 3"}},{"2":{"dexterity":"Dexterity 3","faith":"Faith 5","intelligence":"Intelligence 6","luck":"Luck 1","profession":"Priest","race":"Dwarf","strength":"Strength 6","vitality":"Vitality 10"}},{"3":{"dexterity":"Dexterity 6","faith":"Faith 1","intelligence":"Intelligence 7","luck":"Luck 6","profession":"Priest","race":"Ork the Dragon Slayer","strength":"Strength 3","vitality":"Vitality 7"}},{"4":{"dexterity":"Dexterity 10","faith":"Faith 1","intelligence":"Intelligence 7","luck":"Luck 10","profession":"Warrior","race":"Troll","strength":"Strength 3","vitality":"Vitality 5"}},{"5":{"dexterity":"Dexterity 10","faith":"Faith 10","intelligence":"Intelligence 1","luck":"Luck 9","profession":"Paladin","race":"Undead","strength":"Strength 7","vitality":"Vitality 4"}},{"6":{"dexterity":"Dexterity 10","faith":"Faith 7","intelligence":"Intelligence 7","luck":"Luck 10","profession":"Ranger","race":"Vampire the Holy Virgin","strength":"Strength 5","vitality":"Vitality 5"}},{"7":{"dexterity":"Dexterity 9","faith":"Faith 4","intelligence":"Intelligence 3","luck":"Luck 7","profession":"Warlock","race":"Lizardfolk","strength":"Strength 5","vitality":"Vitality 3"}},{"8":{"dexterity":"Dexterity 7","faith":"Faith 10","intelligence":"Intelligence 9","luck":"Luck 1","profession":"Priest","race":"Vampire","strength":"Strength 9","vitality":"Vitality 8"}},{"9":{"dexterity":"Dexterity 9","faith":"Faith 1","intelligence":"Intelligence 8","luck":"Luck 6","profession":"Warrior","race":"Undead","strength":"Strength 9","vitality":"Vitality 2"}},{"10":{"dexterity":"Dexterity 3","faith":"Faith 9","intelligence":"Intelligence 6","luck":"Luck 3","profession":"The Violent Warrior , follower of the Cult of Rebirth","race":"Ork","strength":"Strength 2","vitality":"Vitality 3"}},{"11":{"dexterity":"Dexterity 7","faith":"Faith 8","intelligence":"Intelligence 8","luck":"Luck 8","profession":"Warlock","race":"Fairy the Searched Criminal","strength":"Strength 1","vitality":"Vitality 2"}},{"12":{"dexterity":"Dexterity 8","faith":"Faith 4","intelligence":"Intelligence 8","luck":"Luck 5","profession":"Hunter","race":"Nymph","strength":"Strength 4","vitality":"Vitality 2"}},{"13":{"dexterity":"Dexterity 6","faith":"Faith 6","intelligence":"Intelligence 4","luck":"Luck 1","profession":"Paladin","race":"Undead","strength":"Strength 5","vitality":"Vitality 3"}},{"14":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 10","luck":"Luck 10","profession":"Berserker","race":"Halfling","strength":"Strength 1","vitality":"Vitality 8"}},{"15":{"dexterity":"Dexterity 5","faith":"Faith 6","intelligence":"Intelligence 3","luck":"Luck 7","profession":"Ranger","race":"Human","strength":"Strength 10","vitality":"Vitality 1"}},{"16":{"dexterity":"Dexterity 2","faith":"Faith 6","intelligence":"Intelligence 4","luck":"Luck 7","profession":"Shapeshifter","race":"Catfolk","strength":"Strength 4","vitality":"Vitality 6"}},{"17":{"dexterity":"Dexterity 1","faith":"Faith 6","intelligence":"Intelligence 4","luck":"Luck 2","profession":"Warrior","race":"Catfolk","strength":"Strength 7","vitality":"Vitality 5"}},{"18":{"dexterity":"Dexterity 3","faith":"Faith 4","intelligence":"Intelligence 2","luck":"Luck 3","profession":"Berserker","race":"Elf the Keeper of the Light","strength":"Strength 7","vitality":"Vitality 2"}},{"19":{"dexterity":"Dexterity 1","faith":"Faith 10","intelligence":"Intelligence 1","luck":"Luck 9","profession":"Shapeshifter","race":"Troll","strength":"Strength 2","vitality":"Vitality 1"}},{"20":{"dexterity":"Dexterity 10","faith":"Faith 3","intelligence":"Intelligence 4","luck":"Luck 9","profession":"Priest","race":"Giant","strength":"Strength 2","vitality":"Vitality 1"}},{"21":{"dexterity":"Dexterity 2","faith":"Faith 8","intelligence":"Intelligence 8","luck":"Luck 9","profession":"Paladin","race":"Undead the Widow Maker","strength":"Strength 9","vitality":"Vitality 4"}},{"22":{"dexterity":"Dexterity 5","faith":"Faith 1","intelligence":"Intelligence 2","luck":"Luck 9","profession":"Ranger","race":"Goblin","strength":"Strength 4","vitality":"Vitality 7"}},{"23":{"dexterity":"Dexterity 10","faith":"Faith 1","intelligence":"Intelligence 9","luck":"Luck 4","profession":"Thief","race":"Vampire","strength":"Strength 3","vitality":"Vitality 2"}},{"24":{"dexterity":"Dexterity 6","faith":"Faith 1","intelligence":"Intelligence 9","luck":"Luck 4","profession":"Shapeshifter","race":"Goblin","strength":"Strength 5","vitality":"Vitality 8"}},{"25":{"dexterity":"Dexterity 5","faith":"Faith 5","intelligence":"Intelligence 6","luck":"Luck 4","profession":"Warrior","race":"Nymph","strength":"Strength 9","vitality":"Vitality 3"}},{"26":{"dexterity":"Dexterity 5","faith":"Faith 6","intelligence":"Intelligence 5","luck":"Luck 1","profession":"Necromancer","race":"Goblin","strength":"Strength 5","vitality":"Vitality 5"}},{"27":{"dexterity":"Dexterity 3","faith":"Faith 10","intelligence":"Intelligence 4","luck":"Luck 8","profession":"The Mysterious Ranger of the Desmumu","race":"Vampire","strength":"Strength 9","vitality":"Vitality 3"}},{"28":{"dexterity":"Dexterity 7","faith":"Faith 3","intelligence":"Intelligence 10","luck":"Luck 2","profession":"Warrior","race":"Undead the Prophet of Enlightment","strength":"Strength 2","vitality":"Vitality 4"}},{"29":{"dexterity":"Dexterity 7","faith":"Faith 8","intelligence":"Intelligence 10","luck":"Luck 8","profession":"Hunter","race":"Human","strength":"Strength 7","vitality":"Vitality 3"}},{"30":{"dexterity":"Dexterity 3","faith":"Faith 10","intelligence":"Intelligence 9","luck":"Luck 4","profession":"Wizard","race":"Nymph","strength":"Strength 5","vitality":"Vitality 3"}},{"31":{"dexterity":"Dexterity 3","faith":"Faith 8","intelligence":"Intelligence 6","luck":"Luck 2","profession":"Priest","race":"Troll","strength":"Strength 7","vitality":"Vitality 2"}},{"32":{"dexterity":"Dexterity 4","faith":"Faith 2","intelligence":"Intelligence 7","luck":"Luck 3","profession":"Priest","race":"Angel","strength":"Strength 4","vitality":"Vitality 1"}},{"33":{"dexterity":"Dexterity 6","faith":"Faith 2","intelligence":"Intelligence 3","luck":"Luck 9","profession":"Warlock","race":"Goblin the Killer of Angels","strength":"Strength 5","vitality":"Vitality 5"}},{"34":{"dexterity":"Dexterity 5","faith":"Faith 1","intelligence":"Intelligence 5","luck":"Luck 4","profession":"Ranger","race":"Demon the Dragon Slayer","strength":"Strength 4","vitality":"Vitality 3"}},{"35":{"dexterity":"Dexterity 6","faith":"Faith 1","intelligence":"Intelligence 6","luck":"Luck 9","profession":"Thief","race":"Lizardfolk","strength":"Strength 6","vitality":"Vitality 8"}},{"36":{"dexterity":"Dexterity 4","faith":"Faith 10","intelligence":"Intelligence 2","luck":"Luck 4","profession":"Berserker","race":"Human","strength":"Strength 9","vitality":"Vitality 4"}},{"37":{"dexterity":"Dexterity 1","faith":"Faith 7","intelligence":"Intelligence 1","luck":"Luck 9","profession":"Thief","race":"Nymph the Child Eater","strength":"Strength 9","vitality":"Vitality 8"}},{"38":{"dexterity":"Dexterity 2","faith":"Faith 5","intelligence":"Intelligence 7","luck":"Luck 4","profession":"Paladin","race":"Catfolk the Son of the Arch Angel","strength":"Strength 2","vitality":"Vitality 8"}},{"39":{"dexterity":"Dexterity 7","faith":"Faith 4","intelligence":"Intelligence 6","luck":"Luck 2","profession":"Wizard","race":"Fairy","strength":"Strength 2","vitality":"Vitality 7"}},{"40":{"dexterity":"Dexterity 10","faith":"Faith 4","intelligence":"Intelligence 7","luck":"Luck 7","profession":"Berserker","race":"Troll","strength":"Strength 5","vitality":"Vitality 6"}},{"41":{"dexterity":"Dexterity 2","faith":"Faith 4","intelligence":"Intelligence 4","luck":"Luck 5","profession":"Ranger","race":"Halfling","strength":"Strength 6","vitality":"Vitality 4"}},{"42":{"dexterity":"Dexterity 5","faith":"Faith 10","intelligence":"Intelligence 3","luck":"Luck 3","profession":"Warlock","race":"Nymph the Child Eater","strength":"Strength 10","vitality":"Vitality 1"}},{"43":{"dexterity":"Dexterity 1","faith":"Faith 8","intelligence":"Intelligence 8","luck":"Luck 9","profession":"Berserker","race":"Fairy the Giant Slayer","strength":"Strength 9","vitality":"Vitality 8"}},{"44":{"dexterity":"Dexterity 8","faith":"Faith 2","intelligence":"Intelligence 2","luck":"Luck 8","profession":"Paladin","race":"Vampire","strength":"Strength 10","vitality":"Vitality 10"}},{"45":{"dexterity":"Dexterity 5","faith":"Faith 8","intelligence":"Intelligence 6","luck":"Luck 3","profession":"Thief","race":"Nymph","strength":"Strength 4","vitality":"Vitality 6"}},{"46":{"dexterity":"Dexterity 4","faith":"Faith 5","intelligence":"Intelligence 8","luck":"Luck 3","profession":"The Beautiful Wizard of House Muma","race":"Angel","strength":"Strength 8","vitality":"Vitality 3"}},{"47":{"dexterity":"Dexterity 1","faith":"Faith 4","intelligence":"Intelligence 6","luck":"Luck 8","profession":"Shapeshifter","race":"Giant","strength":"Strength 7","vitality":"Vitality 2"}},{"48":{"dexterity":"Dexterity 5","faith":"Faith 4","intelligence":"Intelligence 6","luck":"Luck 1","profession":"Paladin","race":"Undead the Prophet of Enlightment","strength":"Strength 5","vitality":"Vitality 8"}},{"49":{"dexterity":"Dexterity 8","faith":"Faith 9","intelligence":"Intelligence 3","luck":"Luck 8","profession":"The Voiceless Wizard last of his Name","race":"Undead","strength":"Strength 3","vitality":"Vitality 2"}},{"50":{"dexterity":"Dexterity 9","faith":"Faith 3","intelligence":"Intelligence 9","luck":"Luck 2","profession":"Thief","race":"Demon","strength":"Strength 5","vitality":"Vitality 10"}},{"51":{"dexterity":"Dexterity 1","faith":"Faith 1","intelligence":"Intelligence 9","luck":"Luck 8","profession":"Priest","race":"Nymph","strength":"Strength 10","vitality":"Vitality 2"}},{"52":{"dexterity":"Dexterity 6","faith":"Faith 9","intelligence":"Intelligence 7","luck":"Luck 4","profession":"Wizard","race":"Ork","strength":"Strength 3","vitality":"Vitality 4"}},{"53":{"dexterity":"Dexterity 9","faith":"Faith 1","intelligence":"Intelligence 8","luck":"Luck 3","profession":"Warrior","race":"Human","strength":"Strength 9","vitality":"Vitality 6"}},{"54":{"dexterity":"Dexterity 1","faith":"Faith 9","intelligence":"Intelligence 7","luck":"Luck 5","profession":"Paladin","race":"Fairy the Great Protector","strength":"Strength 8","vitality":"Vitality 5"}},{"55":{"dexterity":"Dexterity 5","faith":"Faith 10","intelligence":"Intelligence 6","luck":"Luck 9","profession":"Ranger","race":"Halfling","strength":"Strength 2","vitality":"Vitality 3"}},{"56":{"dexterity":"Dexterity 2","faith":"Faith 5","intelligence":"Intelligence 5","luck":"Luck 8","profession":"Warlock","race":"Goblin","strength":"Strength 8","vitality":"Vitality 4"}},{"57":{"dexterity":"Dexterity 3","faith":"Faith 6","intelligence":"Intelligence 6","luck":"Luck 3","profession":"Ranger","race":"Undead","strength":"Strength 10","vitality":"Vitality 1"}},{"58":{"dexterity":"Dexterity 6","faith":"Faith 6","intelligence":"Intelligence 1","luck":"Luck 2","profession":"Ranger","race":"Human","strength":"Strength 4","vitality":"Vitality 1"}},{"59":{"dexterity":"Dexterity 4","faith":"Faith 8","intelligence":"Intelligence 9","luck":"Luck 7","profession":"The Lost Shapeshifter of the Church of Tzorne","race":"Dwarf","strength":"Strength 4","vitality":"Vitality 6"}},{"60":{"dexterity":"Dexterity 2","faith":"Faith 5","intelligence":"Intelligence 4","luck":"Luck 2","profession":"Thief","race":"Undead","strength":"Strength 10","vitality":"Vitality 8"}},{"61":{"dexterity":"Dexterity 2","faith":"Faith 3","intelligence":"Intelligence 5","luck":"Luck 7","profession":"Warlock","race":"Goblin the Child Eater","strength":"Strength 5","vitality":"Vitality 5"}},{"62":{"dexterity":"Dexterity 10","faith":"Faith 2","intelligence":"Intelligence 7","luck":"Luck 1","profession":"Assassin","race":"Fairy","strength":"Strength 2","vitality":"Vitality 5"}},{"63":{"dexterity":"Dexterity 8","faith":"Faith 7","intelligence":"Intelligence 2","luck":"Luck 3","profession":"Assassin","race":"Goblin the Son of the Arch Angel","strength":"Strength 9","vitality":"Vitality 9"}},{"64":{"dexterity":"Dexterity 7","faith":"Faith 4","intelligence":"Intelligence 10","luck":"Luck 4","profession":"Ranger","race":"Fairy the Killer of Angels","strength":"Strength 3","vitality":"Vitality 6"}},{"65":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 9","luck":"Luck 3","profession":"Crippled Hunter of the Church of Nurne","race":"Human the Bringer of Darkness","strength":"Strength 1","vitality":"Vitality 3"}},{"66":{"dexterity":"Dexterity 6","faith":"Faith 4","intelligence":"Intelligence 8","luck":"Luck 4","profession":"Thief","race":"Vampire","strength":"Strength 3","vitality":"Vitality 8"}},{"67":{"dexterity":"Dexterity 10","faith":"Faith 10","intelligence":"Intelligence 7","luck":"Luck 3","profession":"Priest","race":"Dwarf","strength":"Strength 8","vitality":"Vitality 5"}},{"68":{"dexterity":"Dexterity 1","faith":"Faith 10","intelligence":"Intelligence 5","luck":"Luck 6","profession":"The Voiceless Warlock last of his Name","race":"Angel the Dragon Slayer","strength":"Strength 2","vitality":"Vitality 8"}},{"69":{"dexterity":"Dexterity 4","faith":"Faith 10","intelligence":"Intelligence 5","luck":"Luck 9","profession":"Hunter","race":"Troll","strength":"Strength 6","vitality":"Vitality 7"}},{"70":{"dexterity":"Dexterity 7","faith":"Faith 9","intelligence":"Intelligence 2","luck":"Luck 9","profession":"Hunter","race":"Halfling the Prophet of Enlightment","strength":"Strength 1","vitality":"Vitality 2"}},{"71":{"dexterity":"Dexterity 4","faith":"Faith 5","intelligence":"Intelligence 5","luck":"Luck 8","profession":"Shapeshifter","race":"Giant","strength":"Strength 7","vitality":"Vitality 4"}},{"72":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 1","luck":"Luck 7","profession":"Knight","race":"Lizardfolk","strength":"Strength 1","vitality":"Vitality 8"}},{"73":{"dexterity":"Dexterity 9","faith":"Faith 4","intelligence":"Intelligence 1","luck":"Luck 9","profession":"Hunter","race":"Troll the Son of the Arch Angel","strength":"Strength 1","vitality":"Vitality 7"}},{"74":{"dexterity":"Dexterity 8","faith":"Faith 1","intelligence":"Intelligence 4","luck":"Luck 4","profession":"Hunter","race":"Giant the Searched Criminal","strength":"Strength 6","vitality":"Vitality 4"}},{"75":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 7","luck":"Luck 3","profession":"Priest","race":"Elf","strength":"Strength 7","vitality":"Vitality 9"}},{"76":{"dexterity":"Dexterity 4","faith":"Faith 6","intelligence":"Intelligence 6","luck":"Luck 7","profession":"Berserker","race":"Ork","strength":"Strength 8","vitality":"Vitality 8"}},{"77":{"dexterity":"Dexterity 2","faith":"Faith 9","intelligence":"Intelligence 10","luck":"Luck 10","profession":"Necromancer","race":"Fairy","strength":"Strength 4","vitality":"Vitality 5"}},{"78":{"dexterity":"Dexterity 5","faith":"Faith 1","intelligence":"Intelligence 4","luck":"Luck 10","profession":"The Mysterious Necromancer of the Desmumu","race":"Demon the Lord of Wrath","strength":"Strength 6","vitality":"Vitality 1"}},{"79":{"dexterity":"Dexterity 10","faith":"Faith 9","intelligence":"Intelligence 8","luck":"Luck 3","profession":"Berserker","race":"Demon","strength":"Strength 6","vitality":"Vitality 1"}},{"80":{"dexterity":"Dexterity 8","faith":"Faith 4","intelligence":"Intelligence 2","luck":"Luck 7","profession":"Thief","race":"Demon","strength":"Strength 2","vitality":"Vitality 1"}},{"81":{"dexterity":"Dexterity 2","faith":"Faith 5","intelligence":"Intelligence 7","luck":"Luck 4","profession":"Wizard","race":"Troll","strength":"Strength 9","vitality":"Vitality 10"}},{"82":{"dexterity":"Dexterity 6","faith":"Faith 9","intelligence":"Intelligence 5","luck":"Luck 7","profession":"Thief","race":"Goblin","strength":"Strength 4","vitality":"Vitality 4"}},{"83":{"dexterity":"Dexterity 8","faith":"Faith 7","intelligence":"Intelligence 8","luck":"Luck 1","profession":"Wizard","race":"Undead","strength":"Strength 9","vitality":"Vitality 2"}},{"84":{"dexterity":"Dexterity 3","faith":"Faith 9","intelligence":"Intelligence 7","luck":"Luck 10","profession":"Warlock","race":"Dwarf the Omen of Destruction","strength":"Strength 9","vitality":"Vitality 5"}},{"85":{"dexterity":"Dexterity 5","faith":"Faith 3","intelligence":"Intelligence 7","luck":"Luck 3","profession":"Paladin","race":"Lizardfolk the Explorer of the Void","strength":"Strength 4","vitality":"Vitality 3"}},{"86":{"dexterity":"Dexterity 7","faith":"Faith 4","intelligence":"Intelligence 6","luck":"Luck 4","profession":"Necromancer","race":"Halfling","strength":"Strength 10","vitality":"Vitality 2"}},{"87":{"dexterity":"Dexterity 10","faith":"Faith 9","intelligence":"Intelligence 7","luck":"Luck 2","profession":"The Unholy Assassin of House Larmuman","race":"Dwarf","strength":"Strength 4","vitality":"Vitality 10"}},{"88":{"dexterity":"Dexterity 2","faith":"Faith 8","intelligence":"Intelligence 2","luck":"Luck 2","profession":"Paladin","race":"Lizardfolk the Dragon Slayer","strength":"Strength 10","vitality":"Vitality 10"}},{"89":{"dexterity":"Dexterity 4","faith":"Faith 8","intelligence":"Intelligence 9","luck":"Luck 6","profession":"The Coward Knight of the Tuadmumu","race":"Fairy","strength":"Strength 1","vitality":"Vitality 6"}},{"90":{"dexterity":"Dexterity 9","faith":"Faith 4","intelligence":"Intelligence 10","luck":"Luck 4","profession":"Priest","race":"Lizardfolk","strength":"Strength 3","vitality":"Vitality 6"}},{"91":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 8","luck":"Luck 6","profession":"Assassin","race":"Goblin the Great Protector","strength":"Strength 7","vitality":"Vitality 3"}},{"92":{"dexterity":"Dexterity 10","faith":"Faith 5","intelligence":"Intelligence 8","luck":"Luck 8","profession":"Knight","race":"Goblin","strength":"Strength 9","vitality":"Vitality 7"}},{"93":{"dexterity":"Dexterity 3","faith":"Faith 8","intelligence":"Intelligence 4","luck":"Luck 8","profession":"Paladin","race":"Vampire","strength":"Strength 7","vitality":"Vitality 6"}},{"94":{"dexterity":"Dexterity 4","faith":"Faith 10","intelligence":"Intelligence 3","luck":"Luck 8","profession":"Wizard","race":"Halfling the Lord of Wrath","strength":"Strength 9","vitality":"Vitality 6"}},{"95":{"dexterity":"Dexterity 6","faith":"Faith 3","intelligence":"Intelligence 8","luck":"Luck 9","profession":"Shapeshifter","race":"Demon","strength":"Strength 6","vitality":"Vitality 8"}},{"96":{"dexterity":"Dexterity 4","faith":"Faith 7","intelligence":"Intelligence 7","luck":"Luck 8","profession":"Ranger","race":"Nymph","strength":"Strength 4","vitality":"Vitality 2"}},{"97":{"dexterity":"Dexterity 4","faith":"Faith 3","intelligence":"Intelligence 10","luck":"Luck 2","profession":"Knight","race":"Giant","strength":"Strength 9","vitality":"Vitality 3"}},{"98":{"dexterity":"Dexterity 2","faith":"Faith 8","intelligence":"Intelligence 8","luck":"Luck 7","profession":"Priest","race":"Lizardfolk","strength":"Strength 7","vitality":"Vitality 2"}},{"99":{"dexterity":"Dexterity 4","faith":"Faith 9","intelligence":"Intelligence 8","luck":"Luck 3","profession":"Assassin","race":"Lizardfolk","strength":"Strength 5","vitality":"Vitality 10"}},{"100":{"dexterity":"Dexterity 4","faith":"Faith 9","intelligence":"Intelligence 7","luck":"Luck 1","profession":"Thief","race":"Ork","strength":"Strength 10","vitality":"Vitality 1"}}]
+[
+    {
+        "1": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 5",
+            "profession": "Priest",
+            "race": "Goblin",
+            "strength": "Strength 2",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "2": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 1",
+            "profession": "Priest",
+            "race": "Dwarf",
+            "strength": "Strength 6",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "3": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 6",
+            "profession": "Priest",
+            "race": "Ork the Dragon Slayer",
+            "strength": "Strength 3",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "4": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 10",
+            "profession": "Warrior",
+            "race": "Troll",
+            "strength": "Strength 3",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "5": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 9",
+            "profession": "Paladin",
+            "race": "Undead",
+            "strength": "Strength 7",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "6": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 7",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 10",
+            "profession": "Ranger",
+            "race": "Vampire the Holy Virgin",
+            "strength": "Strength 5",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "7": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 7",
+            "profession": "Warlock",
+            "race": "Lizardfolk",
+            "strength": "Strength 5",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "8": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 1",
+            "profession": "Priest",
+            "race": "Vampire",
+            "strength": "Strength 9",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "9": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 6",
+            "profession": "Warrior",
+            "race": "Undead",
+            "strength": "Strength 9",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "10": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 3",
+            "profession": "The Violent Warrior , follower of the Cult of Rebirth",
+            "race": "Ork",
+            "strength": "Strength 2",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "11": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 8",
+            "profession": "Warlock",
+            "race": "Fairy the Searched Criminal",
+            "strength": "Strength 1",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "12": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 5",
+            "profession": "Hunter",
+            "race": "Nymph",
+            "strength": "Strength 4",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "13": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 1",
+            "profession": "Paladin",
+            "race": "Undead",
+            "strength": "Strength 5",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "14": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 10",
+            "profession": "Berserker",
+            "race": "Halfling",
+            "strength": "Strength 1",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "15": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 7",
+            "profession": "Ranger",
+            "race": "Human",
+            "strength": "Strength 10",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "16": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 7",
+            "profession": "Shapeshifter",
+            "race": "Catfolk",
+            "strength": "Strength 4",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "17": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 2",
+            "profession": "Warrior",
+            "race": "Catfolk",
+            "strength": "Strength 7",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "18": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 3",
+            "profession": "Berserker",
+            "race": "Elf the Keeper of the Light",
+            "strength": "Strength 7",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "19": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 9",
+            "profession": "Shapeshifter",
+            "race": "Troll",
+            "strength": "Strength 2",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "20": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 9",
+            "profession": "Priest",
+            "race": "Giant",
+            "strength": "Strength 2",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "21": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 9",
+            "profession": "Paladin",
+            "race": "Undead the Widow Maker",
+            "strength": "Strength 9",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "22": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 9",
+            "profession": "Ranger",
+            "race": "Goblin",
+            "strength": "Strength 4",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "23": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 4",
+            "profession": "Thief",
+            "race": "Vampire",
+            "strength": "Strength 3",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "24": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 4",
+            "profession": "Shapeshifter",
+            "race": "Goblin",
+            "strength": "Strength 5",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "25": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 4",
+            "profession": "Warrior",
+            "race": "Nymph",
+            "strength": "Strength 9",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "26": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 1",
+            "profession": "Necromancer",
+            "race": "Goblin",
+            "strength": "Strength 5",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "27": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 8",
+            "profession": "The Mysterious Ranger of the Desmumu",
+            "race": "Vampire",
+            "strength": "Strength 9",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "28": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 2",
+            "profession": "Warrior",
+            "race": "Undead the Prophet of Enlightment",
+            "strength": "Strength 2",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "29": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 8",
+            "profession": "Hunter",
+            "race": "Human",
+            "strength": "Strength 7",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "30": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 4",
+            "profession": "Wizard",
+            "race": "Nymph",
+            "strength": "Strength 5",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "31": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 2",
+            "profession": "Priest",
+            "race": "Troll",
+            "strength": "Strength 7",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "32": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 2",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 3",
+            "profession": "Priest",
+            "race": "Angel",
+            "strength": "Strength 4",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "33": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 2",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 9",
+            "profession": "Warlock",
+            "race": "Goblin the Killer of Angels",
+            "strength": "Strength 5",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "34": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 4",
+            "profession": "Ranger",
+            "race": "Demon the Dragon Slayer",
+            "strength": "Strength 4",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "35": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 9",
+            "profession": "Thief",
+            "race": "Lizardfolk",
+            "strength": "Strength 6",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "36": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 4",
+            "profession": "Berserker",
+            "race": "Human",
+            "strength": "Strength 9",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "37": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 7",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 9",
+            "profession": "Thief",
+            "race": "Nymph the Child Eater",
+            "strength": "Strength 9",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "38": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 4",
+            "profession": "Paladin",
+            "race": "Catfolk the Son of the Arch Angel",
+            "strength": "Strength 2",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "39": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 2",
+            "profession": "Wizard",
+            "race": "Fairy",
+            "strength": "Strength 2",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "40": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 7",
+            "profession": "Berserker",
+            "race": "Troll",
+            "strength": "Strength 5",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "41": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 5",
+            "profession": "Ranger",
+            "race": "Halfling",
+            "strength": "Strength 6",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "42": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 3",
+            "profession": "Warlock",
+            "race": "Nymph the Child Eater",
+            "strength": "Strength 10",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "43": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 9",
+            "profession": "Berserker",
+            "race": "Fairy the Giant Slayer",
+            "strength": "Strength 9",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "44": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 2",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 8",
+            "profession": "Paladin",
+            "race": "Vampire",
+            "strength": "Strength 10",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "45": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 3",
+            "profession": "Thief",
+            "race": "Nymph",
+            "strength": "Strength 4",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "46": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 3",
+            "profession": "The Beautiful Wizard of House Muma",
+            "race": "Angel",
+            "strength": "Strength 8",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "47": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 8",
+            "profession": "Shapeshifter",
+            "race": "Giant",
+            "strength": "Strength 7",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "48": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 1",
+            "profession": "Paladin",
+            "race": "Undead the Prophet of Enlightment",
+            "strength": "Strength 5",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "49": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 8",
+            "profession": "The Voiceless Wizard last of his Name",
+            "race": "Undead",
+            "strength": "Strength 3",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "50": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 2",
+            "profession": "Thief",
+            "race": "Demon",
+            "strength": "Strength 5",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "51": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 8",
+            "profession": "Priest",
+            "race": "Nymph",
+            "strength": "Strength 10",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "52": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 4",
+            "profession": "Wizard",
+            "race": "Ork",
+            "strength": "Strength 3",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "53": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 3",
+            "profession": "Warrior",
+            "race": "Human",
+            "strength": "Strength 9",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "54": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 5",
+            "profession": "Paladin",
+            "race": "Fairy the Great Protector",
+            "strength": "Strength 8",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "55": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 9",
+            "profession": "Ranger",
+            "race": "Halfling",
+            "strength": "Strength 2",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "56": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 8",
+            "profession": "Warlock",
+            "race": "Goblin",
+            "strength": "Strength 8",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "57": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 3",
+            "profession": "Ranger",
+            "race": "Undead",
+            "strength": "Strength 10",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "58": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 2",
+            "profession": "Ranger",
+            "race": "Human",
+            "strength": "Strength 4",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "59": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 7",
+            "profession": "The Lost Shapeshifter of the Church of Tzorne",
+            "race": "Dwarf",
+            "strength": "Strength 4",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "60": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 2",
+            "profession": "Thief",
+            "race": "Undead",
+            "strength": "Strength 10",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "61": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 7",
+            "profession": "Warlock",
+            "race": "Goblin the Child Eater",
+            "strength": "Strength 5",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "62": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 2",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 1",
+            "profession": "Assassin",
+            "race": "Fairy",
+            "strength": "Strength 2",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "63": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 7",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 3",
+            "profession": "Assassin",
+            "race": "Goblin the Son of the Arch Angel",
+            "strength": "Strength 9",
+            "vitality": "Vitality 9"
+        }
+    },
+    {
+        "64": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 4",
+            "profession": "Ranger",
+            "race": "Fairy the Killer of Angels",
+            "strength": "Strength 3",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "65": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 3",
+            "profession": "Crippled Hunter of the Church of Nurne",
+            "race": "Human the Bringer of Darkness",
+            "strength": "Strength 1",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "66": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 4",
+            "profession": "Thief",
+            "race": "Vampire",
+            "strength": "Strength 3",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "67": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 3",
+            "profession": "Priest",
+            "race": "Dwarf",
+            "strength": "Strength 8",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "68": {
+            "dexterity": "Dexterity 1",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 6",
+            "profession": "The Voiceless Warlock last of his Name",
+            "race": "Angel the Dragon Slayer",
+            "strength": "Strength 2",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "69": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 9",
+            "profession": "Hunter",
+            "race": "Troll",
+            "strength": "Strength 6",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "70": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 9",
+            "profession": "Hunter",
+            "race": "Halfling the Prophet of Enlightment",
+            "strength": "Strength 1",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "71": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 8",
+            "profession": "Shapeshifter",
+            "race": "Giant",
+            "strength": "Strength 7",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "72": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 7",
+            "profession": "Knight",
+            "race": "Lizardfolk",
+            "strength": "Strength 1",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "73": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 1",
+            "luck": "Luck 9",
+            "profession": "Hunter",
+            "race": "Troll the Son of the Arch Angel",
+            "strength": "Strength 1",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "74": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 4",
+            "profession": "Hunter",
+            "race": "Giant the Searched Criminal",
+            "strength": "Strength 6",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "75": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 3",
+            "profession": "Priest",
+            "race": "Elf",
+            "strength": "Strength 7",
+            "vitality": "Vitality 9"
+        }
+    },
+    {
+        "76": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 6",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 7",
+            "profession": "Berserker",
+            "race": "Ork",
+            "strength": "Strength 8",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "77": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 10",
+            "profession": "Necromancer",
+            "race": "Fairy",
+            "strength": "Strength 4",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "78": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 1",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 10",
+            "profession": "The Mysterious Necromancer of the Desmumu",
+            "race": "Demon the Lord of Wrath",
+            "strength": "Strength 6",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "79": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 3",
+            "profession": "Berserker",
+            "race": "Demon",
+            "strength": "Strength 6",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "80": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 7",
+            "profession": "Thief",
+            "race": "Demon",
+            "strength": "Strength 2",
+            "vitality": "Vitality 1"
+        }
+    },
+    {
+        "81": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 4",
+            "profession": "Wizard",
+            "race": "Troll",
+            "strength": "Strength 9",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "82": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 5",
+            "luck": "Luck 7",
+            "profession": "Thief",
+            "race": "Goblin",
+            "strength": "Strength 4",
+            "vitality": "Vitality 4"
+        }
+    },
+    {
+        "83": {
+            "dexterity": "Dexterity 8",
+            "faith": "Faith 7",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 1",
+            "profession": "Wizard",
+            "race": "Undead",
+            "strength": "Strength 9",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "84": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 10",
+            "profession": "Warlock",
+            "race": "Dwarf the Omen of Destruction",
+            "strength": "Strength 9",
+            "vitality": "Vitality 5"
+        }
+    },
+    {
+        "85": {
+            "dexterity": "Dexterity 5",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 3",
+            "profession": "Paladin",
+            "race": "Lizardfolk the Explorer of the Void",
+            "strength": "Strength 4",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "86": {
+            "dexterity": "Dexterity 7",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 6",
+            "luck": "Luck 4",
+            "profession": "Necromancer",
+            "race": "Halfling",
+            "strength": "Strength 10",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "87": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 2",
+            "profession": "The Unholy Assassin of House Larmuman",
+            "race": "Dwarf",
+            "strength": "Strength 4",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "88": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 2",
+            "luck": "Luck 2",
+            "profession": "Paladin",
+            "race": "Lizardfolk the Dragon Slayer",
+            "strength": "Strength 10",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "89": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 9",
+            "luck": "Luck 6",
+            "profession": "The Coward Knight of the Tuadmumu",
+            "race": "Fairy",
+            "strength": "Strength 1",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "90": {
+            "dexterity": "Dexterity 9",
+            "faith": "Faith 4",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 4",
+            "profession": "Priest",
+            "race": "Lizardfolk",
+            "strength": "Strength 3",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "91": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 6",
+            "profession": "Assassin",
+            "race": "Goblin the Great Protector",
+            "strength": "Strength 7",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "92": {
+            "dexterity": "Dexterity 10",
+            "faith": "Faith 5",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 8",
+            "profession": "Knight",
+            "race": "Goblin",
+            "strength": "Strength 9",
+            "vitality": "Vitality 7"
+        }
+    },
+    {
+        "93": {
+            "dexterity": "Dexterity 3",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 4",
+            "luck": "Luck 8",
+            "profession": "Paladin",
+            "race": "Vampire",
+            "strength": "Strength 7",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "94": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 10",
+            "intelligence": "Intelligence 3",
+            "luck": "Luck 8",
+            "profession": "Wizard",
+            "race": "Halfling the Lord of Wrath",
+            "strength": "Strength 9",
+            "vitality": "Vitality 6"
+        }
+    },
+    {
+        "95": {
+            "dexterity": "Dexterity 6",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 9",
+            "profession": "Shapeshifter",
+            "race": "Demon",
+            "strength": "Strength 6",
+            "vitality": "Vitality 8"
+        }
+    },
+    {
+        "96": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 7",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 8",
+            "profession": "Ranger",
+            "race": "Nymph",
+            "strength": "Strength 4",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "97": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 3",
+            "intelligence": "Intelligence 10",
+            "luck": "Luck 2",
+            "profession": "Knight",
+            "race": "Giant",
+            "strength": "Strength 9",
+            "vitality": "Vitality 3"
+        }
+    },
+    {
+        "98": {
+            "dexterity": "Dexterity 2",
+            "faith": "Faith 8",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 7",
+            "profession": "Priest",
+            "race": "Lizardfolk",
+            "strength": "Strength 7",
+            "vitality": "Vitality 2"
+        }
+    },
+    {
+        "99": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 8",
+            "luck": "Luck 3",
+            "profession": "Assassin",
+            "race": "Lizardfolk",
+            "strength": "Strength 5",
+            "vitality": "Vitality 10"
+        }
+    },
+    {
+        "100": {
+            "dexterity": "Dexterity 4",
+            "faith": "Faith 9",
+            "intelligence": "Intelligence 7",
+            "luck": "Luck 1",
+            "profession": "Thief",
+            "race": "Ork",
+            "strength": "Strength 10",
+            "vitality": "Vitality 1"
+        }
+    }
+]

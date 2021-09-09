@@ -7,7 +7,7 @@
 const DICT =
   "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!#$%&'()*+,./:;<=>?@[]^_`{|}~";
 const PAD_CHAR = "¤";
-const HASH_LENGTH = 5;
+const HASH_LENGTH = 10;
 
 function bitwise(str: string) {
   let hash = 0;
@@ -52,5 +52,5 @@ function shorthash(text: string) {
 }
 
 export function hashItem(name: string): string {
-  return shorthash(name).padStart(HASH_LENGTH, PAD_CHAR);
+  return shorthash(name).slice(0, HASH_LENGTH).padStart(HASH_LENGTH, PAD_CHAR);
 }
